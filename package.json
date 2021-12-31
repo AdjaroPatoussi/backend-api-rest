@@ -1,0 +1,19 @@
+{
+  "name": "backend-api-rest",
+  "version": "1.0.0",
+  "description": "backend f'un projet avec express et mongoose",
+  "main": "server.js",
+  "author": "edouard adjaro",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
