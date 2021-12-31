@@ -1,0 +1,14 @@
+npm init
+
+--installation de express
+npm install  express --save
+npm install  express
+--nodemon
+npm install  nodemon
+npm install --save-dev nodemon
+
+--installation de mongosse
+npm install mongoose
+
+
+--insertion mongoos
